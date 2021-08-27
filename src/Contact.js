@@ -12,7 +12,7 @@ export default class Contact extends React.Component
         <section class="section contact-me" data-section="section4">
         <div class="container">
           <div class="section-heading">
-            <h2>Contact Us</h2>
+            <h2>Contact Us Anytime</h2>
             <div class="line-dec"></div>            
           </div>
           <div class="row">
