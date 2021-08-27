@@ -13,7 +13,6 @@ export default class Contact extends React.Component
         <div class="container">
           <div class="section-heading">
             <h2>Contact Us Anytime</h2>
-            <h3>Avaiable 24*7</h3>
             <div class="line-dec"></div>            
           </div>
           <div class="row">
